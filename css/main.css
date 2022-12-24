@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: white;
+    display: flex;
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
